@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  *
  * @author hliang
  */
-public class ABATest {   
+public class ABATest {
     private static AtomicInteger atomicInt = new AtomicInteger(100);
     private static AtomicStampedReference<Integer> atomicStampedRef = 
             new AtomicStampedReference<>(100, 0);
