@@ -12,13 +12,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ForkJoinTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hua/java8/stream/parallel/ForkJoinTest.java">
+      <file leaf-file-name="Man.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/Man.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/OptionalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="92" column="81" selection-start-line="92" selection-start-column="81" selection-end-line="92" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2357#2358#0" expanded="true" />
+                <element signature="e#2407#2408#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewMan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/NewMan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,6 +105,12 @@
         <option value="$PROJECT_DIR$/src/com/hua/java8/stream/parallel/parallel.java" />
         <option value="$PROJECT_DIR$/src/com/hua/java8/stream/parallel/ForkJoinCalculator.java" />
         <option value="$PROJECT_DIR$/src/com/hua/java8/stream/parallel/ForkJoinTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/Optional.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/optional/Optional.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/optional/Man.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/optional/Lady.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/optional/NewMan.java" />
+        <option value="$PROJECT_DIR$/src/com/hua/java8/optional/OptionalTest.java" />
       </list>
     </option>
   </component>
@@ -88,8 +129,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="285" />
-    <option name="y" value="30" />
+    <option name="x" value="330" />
+    <option name="y" value="79" />
     <option name="width" value="1071" />
     <option name="height" value="716" />
   </component>
@@ -174,33 +215,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hua" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hua" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hua" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hua" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="optional" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview-code" type="b2602c69:ProjectViewProjectNode" />
@@ -246,91 +261,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ForkJoinTest.test4">
+  <component name="RunManager" selected="JUnit.OptionalTest.test9">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ForkJoinTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OptionalTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hua.java8.stream.parallel.*" />
+          <option name="PATTERN" value="com.hua.java8.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hua.java8.stream.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.hua.java8.stream.parallel.ForkJoinTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ForkJoinTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hua.java8.stream.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hua.java8.stream.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.hua.java8.stream.parallel.ForkJoinTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ForkJoinTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hua.java8.stream.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hua.java8.stream.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.hua.java8.stream.parallel.ForkJoinTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ForkJoinTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hua.java8.stream.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hua.java8.stream.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.hua.java8.stream.parallel.ForkJoinTest" />
+      <option name="PACKAGE_NAME" value="com.hua.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.hua.java8.optional.OptionalTest" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -342,19 +288,88 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ForkJoinTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OptionalTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hua.java8.stream.parallel.*" />
+          <option name="PATTERN" value="com.hua.java8.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hua.java8.stream.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.hua.java8.stream.parallel.ForkJoinTest" />
+      <option name="PACKAGE_NAME" value="com.hua.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.hua.java8.optional.OptionalTest" />
       <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OptionalTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hua.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hua.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.hua.java8.optional.OptionalTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OptionalTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hua.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hua.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.hua.java8.optional.OptionalTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OptionalTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hua.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hua.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.hua.java8.optional.OptionalTest" />
+      <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -414,19 +429,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.6" />
-      <item itemvalue="JUnit.ForkJoinTest.test" />
-      <item itemvalue="JUnit.ForkJoinTest.test2" />
-      <item itemvalue="JUnit.ForkJoinTest.test1" />
-      <item itemvalue="JUnit.ForkJoinTest.test3" />
-      <item itemvalue="JUnit.ForkJoinTest.test4" />
+      <item itemvalue="JUnit.OptionalTest.test3" />
+      <item itemvalue="JUnit.OptionalTest.test4" />
+      <item itemvalue="JUnit.OptionalTest.test5" />
+      <item itemvalue="JUnit.OptionalTest.test8" />
+      <item itemvalue="JUnit.OptionalTest.test9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ForkJoinTest.test4" />
-        <item itemvalue="JUnit.ForkJoinTest.test3" />
-        <item itemvalue="JUnit.ForkJoinTest.test2" />
-        <item itemvalue="JUnit.ForkJoinTest.test1" />
-        <item itemvalue="JUnit.ForkJoinTest.test" />
+        <item itemvalue="JUnit.OptionalTest.test9" />
+        <item itemvalue="JUnit.OptionalTest.test8" />
+        <item itemvalue="JUnit.OptionalTest.test5" />
+        <item itemvalue="JUnit.OptionalTest.test4" />
+        <item itemvalue="JUnit.OptionalTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -447,44 +462,44 @@
       <workItem from="1527269581968" duration="320000" />
       <workItem from="1527299742840" duration="2163000" />
       <workItem from="1527947116997" duration="4439000" />
-      <workItem from="1528030025912" duration="6289000" />
+      <workItem from="1528030025912" duration="8475000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ForkJoinTest_test - 2018.06.03 at 16h 59m 42s.xml">
-      <configuration name="ForkJoinTest.test" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test4 - 2018.06.03 at 17h 27m 35s.xml">
+      <configuration name="OptionalTest.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test - 2018.06.03 at 16h 59m 58s.xml">
-      <configuration name="ForkJoinTest.test" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test4 - 2018.06.03 at 17h 27m 58s.xml">
+      <configuration name="OptionalTest.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test2 - 2018.06.03 at 17h 01m 17s.xml">
-      <configuration name="ForkJoinTest.test2" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test4 - 2018.06.03 at 17h 28m 56s.xml">
+      <configuration name="OptionalTest.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test2 - 2018.06.03 at 17h 01m 54s.xml">
-      <configuration name="ForkJoinTest.test2" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test5 - 2018.06.03 at 17h 30m 43s.xml">
+      <configuration name="OptionalTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test2 - 2018.06.03 at 17h 02m 10s.xml">
-      <configuration name="ForkJoinTest.test2" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test5 - 2018.06.03 at 17h 31m 21s.xml">
+      <configuration name="OptionalTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test1 - 2018.06.03 at 17h 02m 35s.xml">
-      <configuration name="ForkJoinTest.test1" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test5 - 2018.06.03 at 17h 32m 02s.xml">
+      <configuration name="OptionalTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test2 - 2018.06.03 at 17h 02m 47s.xml">
-      <configuration name="ForkJoinTest.test2" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test5 - 2018.06.03 at 17h 33m 11s.xml">
+      <configuration name="OptionalTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test1 - 2018.06.03 at 17h 05m 12s.xml">
-      <configuration name="ForkJoinTest.test1" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test8 - 2018.06.03 at 19h 17m 49s.xml">
+      <configuration name="OptionalTest.test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test1 - 2018.06.03 at 17h 05m 54s.xml">
-      <configuration name="ForkJoinTest.test1" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test8 - 2018.06.03 at 19h 19m 30s.xml">
+      <configuration name="OptionalTest.test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ForkJoinTest_test2 - 2018.06.03 at 17h 06m 33s.xml">
-      <configuration name="ForkJoinTest.test2" configurationId="JUnit" />
+    <history-entry file="OptionalTest_test8 - 2018.06.03 at 19h 19m 47s.xml">
+      <configuration name="OptionalTest.test8" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14573000" />
+    <option name="totallyTimeSpent" value="16759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +511,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="285" y="30" width="1071" height="716" extended-state="0" />
+    <frame x="330" y="79" width="1071" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -568,6 +583,12 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hua/java8/optional/OptionalTest.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/hua/java8/stream/StreamTest1.java</url>
           <line>59</line>
@@ -616,25 +637,27 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/hua/java8/stream/parallel/ForkJoinTest.java</url>
+          <line>49</line>
+          <properties class="com.hua.java8.stream.parallel.ForkJoinTest" method="test4">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/hua/java8/optional/OptionalTest.java</url>
+          <line>21</line>
+          <properties class="com.hua.java8.optional.OptionalTest" method="test1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/stream/StreamTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/lambda/LambdaTest5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hua/java/multithreading/atomic/AtomicTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1008,10 +1031,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hua/java8/stream/parallel/ForkJoinTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        <state relative-caret-position="158">
+          <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/Lady.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/NewMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hua/java8/optional/OptionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="92" column="81" selection-start-line="92" selection-start-column="81" selection-end-line="92" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2357#2358#0" expanded="true" />
+            <element signature="e#2407#2408#0" expanded="true" />
           </folding>
         </state>
       </provider>
