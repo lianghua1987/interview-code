@@ -5,11 +5,14 @@
  */
 package com.hua.java8.lambda;
 
+import java.util.Objects;
+
 public class Employee {
 
     private String name;
     private int age;
     private Double salary;
+    private Status status;
 
     public Employee() {
 
@@ -28,6 +31,11 @@ public class Employee {
         this.name = name;
         this.age = age;
         this.salary = salary;
+    }
+
+    public Employee(String name, Integer age, Double salary, Status status) {
+        this(name, age, salary);
+        this.status = status;
     }
 
     /**
@@ -71,11 +79,42 @@ public class Employee {
     public void setSalary(Double salary) {
         this.salary = salary;
     }
-    
-    @Override
-    public String toString(){
-        return "[name: " + name + ", age:" + age + ", salary:" + salary +"]";
-    }
-    
 
+
+    public Status getStatus() {
+        return status;
+    }
+
+    public void setStatus(Status status) {
+        this.status = status;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", salary=" + salary +
+                ", status=" + status +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return age == employee.age &&
+                Objects.equals(name, employee.name) &&
+                Objects.equals(salary, employee.salary);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age, salary);
+    }
+
+    public enum Status {
+        AVAILABLE, BUSY, VACATION;
+    }
 }
